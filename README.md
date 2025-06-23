@@ -17,8 +17,9 @@ Modules which are used are requests: for fetching live weather data via API,date
 After extracting the relevant data, the script prints the weather information along with the current date and time, providing a snapshot of the local weather conditions.To enhance understanding, the weather metrics are visualized using the matplotlib library. Three types of charts are generated:
 A bar chart that clearly compares temperature, humidity, and pressure, a line chart to show variation across these metrics , and a pie chart to illustrate the proportion of each parameter in relation to the total.****
 
+***outout***
 
-
+![Image](https://github.com/user-attachments/assets/3078de27-24ea-483a-a0a9-23fc0dfbfe8a)
 
 
 
